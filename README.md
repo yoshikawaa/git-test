@@ -1,2 +1,2 @@
 # git-test repository
-other changes
+other changes 2
