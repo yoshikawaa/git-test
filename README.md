@@ -1,2 +1,2 @@
-# git-test
+# git-test repository
 other changes
