@@ -2,7 +2,7 @@
 name: 1.New Issue
 about: Create a new issue.
 title: ''
-labels: status:triage
+labels: good first issue, status:triage
 assignees: ''
 
 ---
